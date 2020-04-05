@@ -1,3 +1,2 @@
 # tree-model
-Random forest with detailed explanation.
-Decision tree with detailed explanation.
+常见树模型的实现及详细的中文解释，目前支持决策树和随机森林。
